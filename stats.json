@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-16",
   "specialists": 13,
   "mcpServers": 9,
   "jobs": 16,
@@ -8,6 +8,6 @@
   "commits": 252,
   "firstCommit": "2026-11-02",
   "linesOfCode": 26700,
-  "notes": 441,
-  "links": 3080
+  "notes": 446,
+  "links": 3107
 }
