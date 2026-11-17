@@ -4,10 +4,10 @@
   "mcpServers": 9,
   "jobs": 17,
   "haikuJobs": 10,
-  "tests": 167,
-  "commits": 264,
+  "tests": 166,
+  "commits": 265,
   "firstCommit": "2026-11-02",
-  "linesOfCode": 27501,
+  "linesOfCode": 27429,
   "notes": 456,
   "links": 3120
 }
