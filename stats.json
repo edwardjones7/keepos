@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-22",
-  "specialists": 13,
-  "mcpServers": 9,
+  "updatedAt": "2026-11-23",
+  "specialists": 14,
+  "mcpServers": 10,
   "jobs": 18,
   "haikuJobs": 10,
-  "tests": 197,
-  "commits": 322,
+  "tests": 204,
+  "commits": 323,
   "firstCommit": "2026-11-02",
-  "linesOfCode": 33826,
-  "notes": 506,
-  "links": 3212
+  "linesOfCode": 34828,
+  "notes": 512,
+  "links": 3242
 }
